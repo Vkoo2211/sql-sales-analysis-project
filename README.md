@@ -8,6 +8,4 @@ Tools:
 - PostgreSQL
 - DBeaver
 
-  ## Screenshots
-
-![Query Result](Знімок екрана 2026-06-28 221612.png)
+ 
